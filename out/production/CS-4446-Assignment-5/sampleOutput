@@ -1,0 +1,70 @@
+Enter query: distributed algorithm
+List of documents containing the query words
+===========================================
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d4/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p6.html
+
+Number of files that contain the query words: 3
+Number of documents: 45
+
+----------------------------------------------------------------------------
+Enter query: algorithms
+List of documents containing the query words
+===========================================
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d1/p3.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/p4.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d1/p7.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d4/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d3/p8.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d4/p6.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p6.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/p3.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/da/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d3/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p9.html
+
+Number of files that contain the query words: 15
+Number of documents: 45
+
+----------------------------------------------------------------------------
+ Enter query: internet algorithmics
+List of documents containing the query words
+===========================================
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/test.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d1/p7.html
+
+Number of files that contain the query words: 2
+Number of documents: 45
+
+----------------------------------------------------------------------------
+ Enter query: packet network
+List of documents containing the query words
+===========================================
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d3/p4.html
+
+Number of files that contain the query words: 1
+Number of documents: 45
+
+----------------------------------------------------------------------------
+ Enter query: time algorithm
+List of documents containing the query words
+===========================================
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d4/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d4/p6.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p6.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d2/da/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d3/p1.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p5.html
+https://www.csd.uwo.ca/faculty/solis/cs9668/test/d5/p9.html
+
+Number of files that contain the query words: 10
+Number of documents: 45
+
